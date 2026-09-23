@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "61b13a2503548a40276c835f",
+  "owner": "ctbqmqste",
+  "repo": "page-b20de709c5787482f72947fd",
+  "title": "YiBai",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b20de709c5787482f72947fd",
+      "a": "YiBai",
+      "b": "2027最新官网",
+      "entity": "YiBai",
+      "brand": "YiBai",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cf4929a730d970d7279d777ffee2c1c1d41ee2bf728efb11d675ea13199c657e",
+      "content": {
+        "primary_entity": "YiBai",
+        "keyword1": "YiBai",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，帮助不同使用强度的用户找到合适的加速方案。基础版适合轻度浏览与少量设备，旗舰版在流媒体解锁与游戏专线上更均衡，团队版面向多设备高流量场景。",
+          "AI_HERO_SUBTITLE": "多设备加速，套餐灵活可选",
+          "AI_HERO_INTRO": "YiBai 提供面向境外网络访问的加速服务，按流量、设备数与线路类型划分三档套餐。用户可根据日常使用设备数量与带宽需求，选择基础版、旗舰版或团队版，并按客户端文档完成订阅配置。",
+          "AI_VISUAL_TITLE": "YiBai 加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "多设备同时在线支持",
+          "AI_HIGHLIGHT_3": "流媒体与专线场景覆盖",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURES_INTRO": "从设备数量、月流量与线路类型三个维度评估套餐，再结合客户端完成订阅导入。",
+          "AI_FEATURE_TITLE_1": "按设备数量选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，覆盖手机、电脑与平板等常用终端。",
+          "AI_FEATURE_TITLE_2": "按流量周期评估",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合轻度浏览，300GB 兼顾流媒体，1000GB 适合多设备高频使用；年付方案折算价格更低。",
+          "AI_FEATURE_TITLE_3": "按线路场景匹配",
+          "AI_FEATURE_TEXT_3": "普通线路节点池满足日常访问，旗舰版提供 IPLC 专线游戏加速优化，团队版配备 VIP 专属高带宽节点。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLIENTS_INTRO": "不同系统选择对应客户端，订阅链接导入后即可按文档指引连接节点。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别约 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_GUIDE_INTRO": "先确认服务档位，再核对设备与网络适配要求，最后依照对应客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版、团队版中确定合适方案。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_2": "确认操作系统版本与网络环境是否满足客户端运行条件，并留意同时在线设备数限制。",
+          "AI_STEP_TITLE_3": "配置订阅信息",
+          "AI_STEP_TEXT_3": "在所选客户端中依照文档导入订阅链接，完成节点选择与连接测试。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对方案，连接更顺畅",
+          "AI_CLOSING_TEXT": "结合设备数量与流量需求挑选套餐，按文档完成客户端配置即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。按常用设备数选择即可，如果手机、电脑、平板同时使用，建议旗舰版起步。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。轻度浏览与社交选基础版，经常看视频或玩游戏选旗舰版，多人共用选团队版。",
+          "AI_FAQ_ANSWER_3": "支持按年付，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，比按月支付更划算，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线并针对游戏加速优化，同时支持全节点原生流媒体解锁，适合对延迟和画质有要求的场景。",
+          "AI_FAQ_ANSWER_5": "可以，团队版支持 20 台设备同时在线，并提供 VIP 专属高带宽节点与企业定制路由，满足多人协作需求。",
+          "AI_FAQ_QUESTION_1": "YiBai 不同套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "每月流量不够用可以升级套餐吗？",
+          "AI_FAQ_QUESTION_3": "年付比月付便宜多少？",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_QUESTION_5": "团队版可以多人共用吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xiaoliyujc.com",
+    "host": "xiaoliyujc.com"
+  },
+  "file_hashes": {
+    "index.html": "b70abd8ea71164e6a428410bc93cbc6b23bdef9e6a0ae5fe67eb2fe8c9a3ecf4",
+    "sitemap.xml": "0ddf726b9a09d6038cb9f3bceb820e7d503e6a91b2a53b2b44715b27fcef4a04",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e96fe4f7328d2d774c7f9813736415331dc4d2fb29d8ba0daf89e442479a3d6e",
+    "robots.txt": "231f8c2925fec1d45b3a556d0eb5c0ca2371135ce240f006961650c991ca3260",
+    "7aaf04ee87ef9f3e5ab0cdd0ef4d836f.txt": "6d3c826eb15fcaa2d1b5dafc145cfb2a0ace6aa12f3430a2709960f4a0755653"
+  },
+  "revision": "3893da36d3c3d7a0a6e5436a493ca44d1bfe3f7fff32fbb6ea175a2c75352193"
+}

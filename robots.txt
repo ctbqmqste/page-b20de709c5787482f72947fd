@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xiaoliyujc.com/sitemap.xml
